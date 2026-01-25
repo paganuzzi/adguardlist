@@ -1,3 +1,4 @@
 ||mozilla.net^
 ||mozilla.com^
+||firefox.com^
 |mozilla.cloudflare-dns.com
