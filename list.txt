@@ -1,4 +1,6 @@
 ||mozilla.net^
 ||mozilla.com^
 ||firefox.com^
+||opera.com
+||opera-api.com
 |mozilla.cloudflare-dns.com
