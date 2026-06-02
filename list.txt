@@ -1,3 +1,5 @@
+@@||aus5.mozilla.org^
+@@||aus2.mozilla.org^
 ||mozilla.net^
 ||mozilla.com^
 ||firefox.com^
